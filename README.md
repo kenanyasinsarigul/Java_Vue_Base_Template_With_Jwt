@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <h2 align="center">Sisal_Case_Demo (07.2022)</h2>
+  <h2 align="center">Sisal_Case_Demo (08.2022)</h2>
   <p align="center">
     Backend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_Bae_Template_With_Jwt/tree/main/backend">JAVA</a>
     Frontend : <a href="https://github.com/kenanyasinsarigul/Java_Vue_Bae_Template_With_Jwt/tree/main/frontend">VUEJS</a>
@@ -19,6 +19,14 @@
     <a href="https://github.com/kenanyasinsarigul/Java_Vue_Bae_Template_With_Jwt/issues">Request Feature</a>
   </p>
 </p>
+
+## Screen Shots of The Project
+
+![home](https://user-images.githubusercontent.com/51781007/181923382-41dff9e6-47a0-4a91-a2f5-cc61bb5d7bf6.png)
+![loggedHome](https://user-images.githubusercontent.com/51781007/181923450-e1ba460e-710f-41fa-9ae8-e7ffd257b00a.png)
+![register](https://user-images.githubusercontent.com/51781007/181923458-275ef0d7-de82-4b86-ab3f-17c9d45e07da.png)
+![login](https://user-images.githubusercontent.com/51781007/181923466-a805eb9f-c7e5-4931-ab07-96cefcaad940.png)
+![profile](https://user-images.githubusercontent.com/51781007/181923476-acf3f109-011f-4694-8648-87ef1626cca7.png)
 
 ## Used Technologies
 <ul>
