@@ -30,13 +30,7 @@
 
 ## Used Technologies
 <ul>
-  <li>Java Spring Boot</li>
-  <li>VueJs 2</li>
-  <li>Postman</li>
-  <li>Postgre Sql</li>
-  <li>Docker</li>
-  <li>Intellij IDE</li>
-  <li>Visual Studio Code</li>
+  <li>Java Spring Boot, VueJs2, Postman, PostgreSql, Docker, IntellijIDE, VsCode, Bootstrap</li>
 </ul>
 
 ## Author
